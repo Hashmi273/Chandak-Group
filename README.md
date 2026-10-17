@@ -1,13 +1,13 @@
 # Chandak Group - Real Estate Website Clone
 
-Official clone of **Chandak Group** real estate website, operated by **TELIPIA CLOUD PRIVATE LIMITED**.
+Official clone of **Chandak Group** real estate website, operated by **CILWO CLOUD PRIVATE LIMITED**.
 
 ## 🏢 Brand & Legal Information
 - **Brand Name:** Chandak Group
-- **Trade & Legal Name:** TELIPIA CLOUD PRIVATE LIMITED.
+- **Trade & Legal Name:** CILWO CLOUD PRIVATE LIMITED.
 - **Business Constitution:** Private Limited Company
-- **GSTIN:** `27AANCT5619C1Z7`
-- **Principal Place of Business:** Ground, Ganesh Nagar Ram CHL, Charkop Link RD Ekta NGR, Kandivali West, Mumbai, Mumbai Suburban, Maharashtra, 400067
+- **GSTIN:** `27AAKCC7378L1ZW`
+- **Principal Place of Business:** 6th, A-603, Siddhi Ahmed Chs Ltd, Dr Babasaheb Ambedkar Marg, Media Contacts, Parel, Mumbai, Mumbai, Maharashtra, 400012
 - **Head Office:** Solaris One, 807-808, 8th Floor, N.S. Phadke Marg, Teli Gully, Andheri East, Mumbai, Maharashtra - 400069
 - **Helpline:** +91 7620560000 | 022-35112430
 - **Email:** sales@chandakgroup.com
@@ -46,4 +46,4 @@ Official clone of **Chandak Group** real estate website, operated by **TELIPIA C
 ---
 
 ## 📄 License & Copyright
-&copy; 2026 **TELIPIA CLOUD PRIVATE LIMITED.** All rights reserved.
+&copy; 2026 **CILWO CLOUD PRIVATE LIMITED.** All rights reserved.
